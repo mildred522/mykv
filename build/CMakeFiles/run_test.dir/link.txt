@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g CMakeFiles/run_test.dir/memtable.cpp.o CMakeFiles/run_test.dir/sstablebuilder.cpp.o CMakeFiles/run_test.dir/sstablereader.cpp.o CMakeFiles/run_test.dir/test.cpp.o -o run_test 

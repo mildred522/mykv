@@ -1,0 +1,3 @@
+/mnt/d/codeset/mykv/build/CMakeFiles/run_test.dir
+/mnt/d/codeset/mykv/build/CMakeFiles/edit_cache.dir
+/mnt/d/codeset/mykv/build/CMakeFiles/rebuild_cache.dir
